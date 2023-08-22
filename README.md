@@ -1,6 +1,7 @@
-# UX Portfolio
+#NATHALIE UX Portfolio
 
 About me...
+! 
 
 ## UX Team Project
 
