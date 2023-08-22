@@ -1,4 +1,4 @@
-#NATHALIE UX Portfolio
+# NATHALIE UX Portfolio
 
 ![A photo of Nathalie Rios, the author of this portfolio]
 
