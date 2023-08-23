@@ -2,7 +2,7 @@
 
 ![A photo of Nathalie Rios, the author of this portfolio]
 
-I'm Nathalie Rios, I am an Interior Architecture major. I plan on freelancing in graphic design in my freetime in the future so I thought this class would allow me to go more in depth   
+I'm Nathalie Rios, I am an Interior Architecture major. I also plan on freelancing in graphic design in my freetime in the future. WHich is why so I signed up for this class since I believe it will expand my knowledge on currating projects and designs and my way of approaching design problems.    
 ## UX Team Project
 
 Coming soon.
