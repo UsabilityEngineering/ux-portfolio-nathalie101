@@ -10,7 +10,7 @@ With a list of components in hand, I set out to gather the necessary parts on Am
 
 Part 3: The Build
 The orders came in and it was time to put theory into practice. Armed with whatever complimentary tools the parts came with, I laid out all my components on the dining room table. Step by step, I followed the motherboard and case manual. To my surprise the case manual was very **useful** and beginner friendly. It had nice diagramatic pictures on how to take your case apart and where some of your things should go like the power supply. Thanks to that, I didn’t struggle much in applying certain parts. 
-![A photo of PC case Manual page](/assets/Screenshot 2023-10-13 204225)
+![A photo of PC case Manual page](/assets/Screenshot2023-10-13204225)
 
 I started with the motherboard and began to put in the pieces on it before attaching it into the case. The website for the motherboard was what I used the most to find out where things were going, specifically this labeled picture. 
 I looked at what part I was holding and simply placed it with its designated spot by its name. 
