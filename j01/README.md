@@ -1,5 +1,7 @@
 #Building my first PC
+
 By Nathalie Rios 10/13/2023
+
 Part 1: The Research
 Before I started purchasing, I started researching the basic parts needed and how powerful I needed them to be. I looked for beginner-friendly guides, watched countless YouTube/tiktok videos on tutorials and pc/desk setups. Understanding the basic components of a computer, such as the motherboard, CPU, GPU, RAM, and storage. This part was probably the month lengthy  because I did not want to regret any purchases. My main goal for my pc was to have it run all the autodesk applications I need, render 3d models, and run adobe suite applications smoothly at the same time. Also to have the flexibility to game in the future. Also, most importantly, for it to turn on.  
 Part 2: Gathering of Components
